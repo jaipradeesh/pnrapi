@@ -1,3 +1,5 @@
+import foo
+
 PARAM_NAME = "lccp_pnrno1"
 
 BASE_URL = "http://www.indianrail.gov.in/cgi_bin/inet_pnrstat_cgi.cgi"
