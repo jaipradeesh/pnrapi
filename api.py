@@ -4,6 +4,8 @@ import requests
 from settings import *
 from utils import *
 
+input_line = raw_input("> ")
+
 app = Flask(__name__)
 
 @app.route('/pnr/<pnr>')
