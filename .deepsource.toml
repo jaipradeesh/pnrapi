@@ -2,6 +2,6 @@ version = 1
 
 [[analyzers]]
   name = "python"
-  runtime_version = "2.x.x"
+  runtime_version = "3.x.x"
   enabled  = true
   dependency_file_paths = ["requirements.txt"]
