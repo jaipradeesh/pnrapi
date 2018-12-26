@@ -6,6 +6,7 @@ input_line = raw_input("> ")
 app = Flask(__name__)
 
 defs anything:
+	
 	foo()
 
 @app.route('/pnr/<pnr>')
