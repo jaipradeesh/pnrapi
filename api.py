@@ -1,6 +1,9 @@
 from flask import Flask, jsonify, render_template, json
 import requests
 
+
+import bar
+
 input_line = raw_input("> ")
 
 app = Flask(__name__)
