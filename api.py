@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, render_template, json
-import requests
+import request
 
 input_line = raw_input("> ")
 
