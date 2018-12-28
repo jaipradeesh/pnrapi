@@ -4,6 +4,10 @@ test
 We all hate [Indian Railways](http://indianrail.gov.in) for being sucky, and not providing a public API to query the PNR status of railway tickets. So, I thought I'd make my own when my favorite 3rd party API was down.
 
 ## Usage ##
+d
+s
+d
+s
 
 As simple as it gets! Suppose your PNR is __6223797269__. Just do a ``GET`` at:
 
