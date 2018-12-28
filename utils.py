@@ -2,7 +2,7 @@ import re
 import lxml.html as parser
 import cjson
 
-from settings import *
+import settings
 
 with open('station_codes.json') as codes:
 	station_codes = cjson.decode(codes.read())
