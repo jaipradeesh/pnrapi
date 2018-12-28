@@ -1,7 +1,7 @@
 from flask import Flask, jsonify, render_template, json
 import requests
 
-input_line = raw_input("> ")
+import foo
 
 app = Flask(__name__)
 
